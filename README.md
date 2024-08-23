@@ -1,6 +1,6 @@
 ## Credit-risk Analysis with Logistic Regression Model
 
-### Supervised MAchine learning
+### Supervised Machine learning
 ## Overview of the Analysis
 For this project, I worked with a dataset from a lending platform that recorded historical lending activity. 
 
@@ -10,7 +10,7 @@ Key features like loan size, interest rate, borrower income, debt-to-income rati
 The label, or target variable, was the loan status, which indicates whether the loan was repaid or defaulted. 
 
 ## Dependencies used:
-Scilit Learn and Pandas
+Scikit Learn and Pandas
 
 ## Model Design Process
 1. Data Input
